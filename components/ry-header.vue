@@ -33,7 +33,7 @@
 		props: {
 			backgroundColor: { default: '#F50' },
 			height: { default: '150px' },
-			title: { default: '荣药在线' },
+			title: { default: 'TEST TITLE' },
 			icon_left: { default: 'http://file.ry600.com/snapshot//files/di/di70684438lrfavs/2017-07-14/6aprilsm5xkr0qmo.png' },
 			icon_right: {},
 			fontSize:{ default: '45px' },
